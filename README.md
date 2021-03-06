@@ -5,7 +5,7 @@
 
 1. git clone > to clone repo from GitHub
 2. git add > to add files to stage
-3. git commit > to commit all the file
+3. git commit -s -m "" > to commit all the file, -s to signoff and -m for message and "" to write msg
 4. git push origin main > to push changes to GitHub main branch
 5. git pull origin main > to pull all the changes from GitHub main branch to local branch
 6. git diff > show the difference between old and new code
