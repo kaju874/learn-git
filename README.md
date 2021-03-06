@@ -28,3 +28,5 @@
 	c. :q > quite editor
 	d. esc > perform command/ change mode
 7. cat file_name > read/see file content
+
+### Learn python using this book - https://pymbook.readthedocs.io/en/latest/
